@@ -7,13 +7,13 @@ LAppS binaries
 
 **Ubuntu focal 20.04 LTS**
 
-0.9.4 - latest pre-release
+0.9.4 - latest stable
   * [LAppS-0.9.4-avx2](https://github.com/ITpC/LAppS.builds/raw/master/focal/lapps-0.9.4-avx2-amd64.deb) build limited to CPUs with AVX2 support and above. 
   * [LAppS-0.9.4-avx](https://github.com/ITpC/LAppS.builds/raw/master/focal/lapps-0.9.4-avx-amd64.deb) build limited to CPUs with AVX support and above. 
   * [LAppS-0.9.4-sse2](https://github.com/ITpC/LAppS.builds/raw/master/focal/lapps-0.9.4-sse2-amd64.deb) build limited to CPUs with SSE2 support and above. 
   * [LAppS-0.9.4-ssse3](https://github.com/ITpC/LAppS.builds/raw/master/focal/lapps-0.9.4-ssse3-amd64.deb) build limited to CPUs with SSSE3 support and above. 
 
-0.9.3 - latest stable
+0.9.3
   * [LAppS-0.9.3-avx2](https://github.com/ITpC/LAppS.builds/raw/master/focal/lapps-0.9.3-avx2-amd64.deb) build limited to CPUs with AVX2 support and above. 
   * [LAppS-0.9.3-avx](https://github.com/ITpC/LAppS.builds/raw/master/focal/lapps-0.9.3-avx-amd64.deb) build limited to CPUs with AVX support and above. 
   * [LAppS-0.9.3-sse2](https://github.com/ITpC/LAppS.builds/raw/master/focal/lapps-0.9.3-sse2-amd64.deb) build limited to CPUs with SSE2 support and above. 
@@ -21,13 +21,13 @@ LAppS binaries
 
 **Ubuntu bionic 18.04 LTS**
 
-0.9.4 - latest pre-release
+0.9.4 - latest stable
   * [LAppS-0.9.4-avx2](https://github.com/ITpC/LAppS.builds/raw/master/bionic/lapps-0.9.4-avx2-amd64.deb) build limited to CPUs with AVX2 support and above. 
   * [LAppS-0.9.4-avx](https://github.com/ITpC/LAppS.builds/raw/master/bionic/lapps-0.9.4-avx-amd64.deb) build limited to CPUs with AVX support and above. 
   * [LAppS-0.9.4-sse2](https://github.com/ITpC/LAppS.builds/raw/master/bionic/lapps-0.9.4-sse2-amd64.deb) build limited to CPUs with SSE2 support and above. 
   * [LAppS-0.9.4-ssse3](https://github.com/ITpC/LAppS.builds/raw/master/bionic/lapps-0.9.4-ssse3-amd64.deb) build limited to CPUs with SSSE3 support and above. 
 
-0.9.3 - latest stable
+0.9.3 
   * [LAppS-0.9.3-avx2](https://github.com/ITpC/LAppS.builds/raw/master/bionic/lapps-0.9.3-avx2-amd64.deb) build limited to CPUs with AVX2 support and above. 
   * [LAppS-0.9.3-avx](https://github.com/ITpC/LAppS.builds/raw/master/bionic/lapps-0.9.3-avx-amd64.deb) build limited to CPUs with AVX support and above. 
   * [LAppS-0.9.3-sse2](https://github.com/ITpC/LAppS.builds/raw/master/bionic/lapps-0.9.3-sse2-amd64.deb) build limited to CPUs with SSE2 support and above. 
